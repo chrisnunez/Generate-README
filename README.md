@@ -1,4 +1,6 @@
-# 09 Node.js Homework: Professional README Generator
+## Professional README Generator
+
+![](assets/readme.gif)
 
 ## Your Task
 
